@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstName": "test",
+      "lastName": "tes",
+      "email": "TEST@123",
+      "mobile": "7676878778",
+      "salary": "5554545"
+    },
+    {
+      "id": 6,
+      "firstName": "sashi",
+      "lastName": "yadav",
+      "email": "sashi@gmail.com",
+      "mobile": "12121222",
+      "salary": "3467667"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
